@@ -1,0 +1,3 @@
+﻿  Var_7.cpp
+D:\Projects\Programs\OAiP_2_Sem\Laba_16\Var_7\Var_7.cpp(15,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Var_7.vcxproj -> D:\Projects\Programs\OAiP_2_Sem\Laba_16\x64\Debug\Var_7.exe

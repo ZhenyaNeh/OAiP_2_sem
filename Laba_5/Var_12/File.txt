@@ -1,0 +1,5 @@
+Nehaychik Zhenya	28	01	2005	Kolodichi	(33)360-62-16	University	Student
+Selitskiy Nikolai	07	08	2004	Loshitsa	(33)385-45-27	University	Student
+Nehaychik Kateee	10	12	2008	Kolodichi	(29)825-75-67	Schooooool	Student
+Paseevich Nikita	27	02	2005	Kolodichi	(29)547-94-32	University	Student
+Bogatyreva Milana	10	12	2005	Polotski	(33)309-12-10	University	Student

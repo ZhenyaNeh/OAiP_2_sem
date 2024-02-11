@@ -1,0 +1,4 @@
+﻿  test.cpp
+D:\Projects\Programs\OAiP_2_Sem\Laba_16\test\test.cpp(10,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Projects\Programs\OAiP_2_Sem\Laba_16\test\test.cpp(53,26): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  test.vcxproj -> D:\Projects\Programs\OAiP_2_Sem\Laba_16\x64\Debug\test.exe

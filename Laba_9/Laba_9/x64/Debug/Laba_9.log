@@ -1,0 +1,3 @@
+﻿  Laba_9.cpp
+D:\Projects\Programs\OAiP_2_Sem\Laba_9\Laba_9\Laba_9.cpp(195,25): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Laba_9.vcxproj -> D:\Projects\Programs\OAiP_2_Sem\Laba_9\x64\Debug\Laba_9.exe

@@ -1,0 +1,4 @@
+Noute		1000	14	25
+Phone		800	145	20
+Mouse		50	254	30
+Camera	3000	7	11
